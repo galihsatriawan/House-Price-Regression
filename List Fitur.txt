@@ -1,0 +1,16 @@
+- LotArea
+- LotFrontage
+- Alley
+- OverallQual
+- YearBuilt
+- YearRemodAdd
+- MasVnrArea
+- BsmtFinSF1
+- TotalBsmtSF
+- 1stFlrSF
+- 2ndFlrSF
+- GrLivArea
+- TotRmsAbvGrd
+- GarageArea
+- OpenPorchSF
+- EnclosedPorch
